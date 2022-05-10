@@ -1,2 +1,9 @@
 
 .DS_Store
+codes/category/dataset/encoded_dataset_30.0/test/dataset.arrow
+codes/category/dataset/encoded_dataset_30.0/dataset_dict.json
+codes/category/dataset/encoded_dataset_30.0/test/dataset_info.json
+codes/category/dataset/encoded_dataset_30.0/test/state.json
+codes/category/dataset/encoded_dataset_30.0/train/dataset.arrow
+codes/category/dataset/encoded_dataset_30.0/train/dataset_info.json
+codes/category/dataset/encoded_dataset_30.0/train/state.json
