@@ -14,3 +14,4 @@ data/category/encoded_dataset_30.0/test/state.json
 data/category/encoded_dataset_30.0/train/dataset.arrow
 data/category/encoded_dataset_30.0/train/dataset_info.json
 data/category/encoded_dataset_30.0/train/state.json
+data/category/category_labels_v2.pkl
